@@ -1,0 +1,6 @@
+<tools>
+        <tool id="best-practices-inventory" title="Best Practices::Inventory" projectTypes="inventory">
+            <description>Checks inventory projects for best practices</description>
+            <output  script="inventory-bp.groovy" type="html" />
+        </tool>
+</tools>
